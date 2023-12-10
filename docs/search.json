@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/opentargets2.html",
+    "href": "posts/opentargets2.html",
+    "title": "Open Targets II",
+    "section": "",
+    "text": "This is my first blog.\nHere is how to add math inline \\lambda\nHere is how to add new line equations\n\nx = ay\n\nThis is a citation Almaqwashi et al. (2019).\nHere is a code block\nimport numpy as np\nfor x in [1,2,3]:\n  print(x)\nlibrary(dplyr)\n\n\n\n\nReferences\n\nAlmaqwashi, Ali A, Wen Zhou, M Nabuan Naufer, Imogen A Riddell, Omer H Yilmaz, Stephen J Lippard, and Mark C Williams. 2019. “DNA Intercalation Facilitates Efficient DNA-Targeted Covalent Binding of Phenanthriplatin.” Journal of the American Chemical Society 141 (4): 1537–45."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "notes",
+    "section": "",
+    "text": "Open Targets\n\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2023\n\n\nNabuan Naufer\n\n\n\n\n\n\n  \n\n\n\n\nOpen Targets II\n\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2023\n\n\nNabuan Naufer\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/opentargets.html",
+    "href": "posts/opentargets.html",
+    "title": "Open Targets",
+    "section": "",
+    "text": "This is my first blog.\nHere is how to add math inline \\lambda\nHere is how to add new line equations\n\nx = ay\n\nThis is a citation Almaqwashi et al. (2019).\nHere is a code block\nimport numpy as np\nfor x in [1,2,3]:\n  print(x)\nlibrary(dplyr)\n\n\n\n\nReferences\n\nAlmaqwashi, Ali A, Wen Zhou, M Nabuan Naufer, Imogen A Riddell, Omer H Yilmaz, Stephen J Lippard, and Mark C Williams. 2019. “DNA Intercalation Facilitates Efficient DNA-Targeted Covalent Binding of Phenanthriplatin.” Journal of the American Chemical Society 141 (4): 1537–45."
+  }
+]
